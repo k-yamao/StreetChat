@@ -1,0 +1,46 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - JSONModel (1.5.1)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SIOSocket (0.2.0)
+  - UIAlertView+Blocks (0.9)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.6)
+  - JSONModel (~> 1.1)
+  - SDWebImage (~> 3.7)
+  - SIOSocket (~> 0.2.0)
+  - UIAlertView+Blocks (~> 0.9)
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  JSONModel: fd2553dc9e6608a3f35bfc956a14be35395d3852
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SIOSocket: 2facc0bd02ae72d98c223634a46dd8ebdf9be321
+  UIAlertView+Blocks: a46c99c5144f6c5dbc7d62fd2a0678daceec89a3
+
+PODFILE CHECKSUM: 3817017479e6cd9a0dca2f903a9d7da72e384221
+
+COCOAPODS: 1.0.1
